@@ -1191,7 +1191,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &16420413
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1556,7 +1555,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &20734144
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1967,7 +1965,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &33526198
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4256,7 +4253,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &90915467
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4657,7 +4653,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &100815563
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6832,7 +6827,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &155734986
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -8143,7 +8137,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &169685195
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -9614,7 +9607,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!1 &204514706
 GameObject:
   m_ObjectHideFlags: 0
@@ -11761,7 +11753,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &234050558
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12719,7 +12710,6 @@ MonoBehaviour:
   moveSpeed: 20
   slowSpeed: 15
   boostSpeed: 30
-  scoreManager: {fileID: 0}
 --- !u!212 &267139058
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12878,7 +12868,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 4294639615
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!1 &270634029
 GameObject:
   m_ObjectHideFlags: 0
@@ -13911,7 +13900,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &291054826
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -14822,7 +14810,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &308633574
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17247,7 +17234,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &361275127
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18262,7 +18248,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &376269913
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19017,7 +19002,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &394347398
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22074,7 +22058,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &476470655
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22485,7 +22468,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &486227953
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -25283,7 +25265,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &533386649
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -27802,7 +27783,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &574117188
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29811,7 +29791,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &608371394
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29962,7 +29941,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &610523252
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -30707,7 +30685,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &614142377
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -34452,7 +34429,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &694890603
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -35963,6 +35939,7 @@ GameObject:
   - component: {fileID: 726312966}
   - component: {fileID: 726312970}
   - component: {fileID: 726312971}
+  - component: {fileID: 726312972}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -36028,7 +36005,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 0
-  m_AdditionalShaderChannelsFlag: 0
+  m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
@@ -36047,6 +36024,7 @@ RectTransform:
   m_Children:
   - {fileID: 1556769580}
   - {fileID: 518286750}
+  - {fileID: 1281151951}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -36080,6 +36058,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scoreText: {fileID: 1556769581}
   highscoreText: {fileID: 518286751}
+--- !u!114 &726312972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 726312965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a953cb9cbbc492f4cb6b2fe27ea04468, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeToCompleteDelivery: 330
+  timeToStartGame: 3
+  isGameStarted: 0
+  fillFraction: 0
 --- !u!1 &727210908
 GameObject:
   m_ObjectHideFlags: 0
@@ -37678,7 +37672,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &764000371
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -37829,7 +37822,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &765557242
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -39038,7 +39030,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &784318555
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -40099,7 +40090,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &799120861
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -41520,7 +41510,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &833041747
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -43259,7 +43248,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &856513652
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -44484,7 +44472,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &876923220
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -44597,6 +44584,58 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &876950125
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 876950126}
+  - component: {fileID: 876950127}
+  m_Layer: 5
+  m_Name: 'Timer '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &876950126
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 876950125}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 565, y: 256}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &876950127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 876950125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a953cb9cbbc492f4cb6b2fe27ea04468, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeToCompleteDelivery: 330
+  timeToStartGame: 3
+  isGameStarted: 0
+  fillFraction: 0
 --- !u!1 &879485936
 GameObject:
   m_ObjectHideFlags: 0
@@ -48043,7 +48082,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &928201104
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -50308,7 +50346,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &956903813
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -50719,7 +50756,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &962798107
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -51000,7 +51036,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &963412099
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -51281,7 +51316,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &964826600
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -52556,7 +52590,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &974614792
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -53747,7 +53780,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1004563370
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -55664,7 +55696,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1038504244
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -56029,7 +56060,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1045909953
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -60916,7 +60946,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1134546217
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -61197,7 +61226,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1136171483
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -62258,7 +62286,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1147393067
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -62951,7 +62978,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1152503123
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -66318,7 +66344,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1195584894
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -68687,7 +68712,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1226200624
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -71120,6 +71144,81 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1281151950
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1281151951}
+  - component: {fileID: 1281151953}
+  - component: {fileID: 1281151952}
+  m_Layer: 5
+  m_Name: TimerImage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1281151951
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1281151950}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 726312969}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -508.5044, y: 220.49994}
+  m_SizeDelta: {x: 70.9912, y: 60}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1281151952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1281151950}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 568493dd8174c834ca18e5813721448c, type: 3}
+  m_Type: 3
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 2
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1281151953
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1281151950}
+  m_CullTransparentMesh: 1
 --- !u!1 &1281716896
 GameObject:
   m_ObjectHideFlags: 0
@@ -71762,7 +71861,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1290173515
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -71913,7 +72011,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1296091298
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -73048,7 +73145,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1317093166
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -74183,7 +74279,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1331454500
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -74854,7 +74949,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1341838692
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -75479,7 +75573,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1354909170
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -76540,7 +76633,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1378881181
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -77509,7 +77601,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1394767609
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -78570,7 +78661,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1405855651
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -78851,7 +78941,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1416538528
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -81676,7 +81765,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1478005532
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -82987,7 +83075,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1495410572
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -83398,7 +83485,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1505309176
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -83549,7 +83635,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1507244991
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -84070,7 +84155,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1521969553
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -85701,7 +85785,7 @@ MonoBehaviour:
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 20
-    m_FontStyle: 0
+    m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 2
     m_MaxSize: 40
@@ -88032,7 +88116,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1607887957
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -88943,7 +89026,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1624547167
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -89734,7 +89816,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1637599328
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -89885,7 +89966,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1640666678
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -93694,7 +93774,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1709167679
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -93975,7 +94054,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1720430267
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -94506,7 +94584,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1729461278
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -96153,7 +96230,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1752555491
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -96694,7 +96770,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1764072895
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -98739,7 +98814,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1795675961
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -100488,7 +100562,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1841096794
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -101029,7 +101102,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1851003449
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -101180,7 +101252,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1852403523
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -102873,7 +102944,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1889936495
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -103608,7 +103678,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1901701934
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -104353,7 +104422,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1917376033
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -109000,7 +109068,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &1997073416
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -111025,7 +111092,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &2030382448
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -111176,7 +111242,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &2030835515
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -111977,7 +112042,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &2041067737
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -112128,7 +112192,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &2043731173
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -114053,7 +114116,6 @@ MonoBehaviour:
     serializedVersion: 2
     rgba: 16843009
   destroyDelay: 0.5
-  scoreManager: {fileID: 0}
 --- !u!61 &2085528758
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -118187,3 +118249,4 @@ SceneRoots:
   - {fileID: 1163750256}
   - {fileID: 1149104428}
   - {fileID: 726312969}
+  - {fileID: 876950126}

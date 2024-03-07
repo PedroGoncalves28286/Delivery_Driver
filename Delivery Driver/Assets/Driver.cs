@@ -7,13 +7,33 @@ public class Driver : MonoBehaviour
     [SerializeField] float slowSpeed = 15f;
     [SerializeField] float boostSpeed = 30f;
 
+    Timer timer;
+
+    void Start()
+    {
+        timer = FindObjectOfType<Timer>();
+    }
+
     void Update()
     {
-        float steerAmount = Input.GetAxis("Horizontal") * steerSpeed * Time.deltaTime;
-        float moveAmount = Input.GetAxis("Vertical") * moveSpeed * Time.deltaTime;
+        if (timer.isGameStarted)
+        {
+            float steerAmount = Input.GetAxis("Horizontal") * steerSpeed * Time.deltaTime;
+            float moveAmount = Input.GetAxis("Vertical") * moveSpeed * Time.deltaTime;
 
-        transform.Rotate(0, 0, -steerAmount);
-        transform.Translate(0, moveAmount, 0);
+            transform.Rotate(0, 0, -steerAmount);
+            transform.Translate(0, moveAmount, 0);
+
+            if (timer.RemainingTime <= 0)
+            {
+                Debug.Log("Time's up! Game Over!");
+                // Perform game over actions here
+            }
+        }
+        else
+        {
+            Debug.Log("Waiting for game to start...");
+        }
     }
 
     void OnTriggerEnter2D(Collider2D other)
@@ -21,7 +41,7 @@ public class Driver : MonoBehaviour
         if (other.tag == "Boost")
         {
             moveSpeed = boostSpeed;
-            ScoreManager.Instance.AddScore(5); // Example: Add 5 points when hitting a boost
+            ScoreManager.Instance.AddScore(5);
         }
     }
 
@@ -30,5 +50,4 @@ public class Driver : MonoBehaviour
         moveSpeed = slowSpeed;
     }
 }
-
 
