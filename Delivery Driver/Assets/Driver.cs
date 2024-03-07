@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Driver : MonoBehaviour
 {
@@ -6,6 +7,7 @@ public class Driver : MonoBehaviour
     [SerializeField] float moveSpeed = 0.1f;
     [SerializeField] float slowSpeed = 15f;
     [SerializeField] float boostSpeed = 30f;
+    [SerializeField] Image timerImage  ;
 
     Timer timer;
 
@@ -16,6 +18,8 @@ public class Driver : MonoBehaviour
 
     void Update()
     {
+        timerImage.fillAmount = timer.fillFraction;
+
         if (timer.isGameStarted)
         {
             float steerAmount = Input.GetAxis("Horizontal") * steerSpeed * Time.deltaTime;

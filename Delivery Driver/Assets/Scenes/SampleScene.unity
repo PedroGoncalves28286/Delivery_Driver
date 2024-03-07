@@ -12710,6 +12710,7 @@ MonoBehaviour:
   moveSpeed: 20
   slowSpeed: 15
   boostSpeed: 30
+  timerImage: {fileID: 1281151952}
 --- !u!212 &267139058
 SpriteRenderer:
   m_ObjectHideFlags: 0
